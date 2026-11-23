@@ -1,0 +1,11 @@
+
+# EDA and Visualization
+matplotlib
+seaborn
+plotly
+
+# VS Code Notebook Support
+ipykernel
+
+# Development Utilities
+tqdm

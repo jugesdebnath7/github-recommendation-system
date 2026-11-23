@@ -1,0 +1,27 @@
+
+# Database
+sqlalchemy
+alembic
+
+# Data Processing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+torch
+
+# Backend
+fastapi
+uvicorn
+pydantic
+
+# GitHub API
+requests
+httpx
+
+# Environment
+python-dotenv
+
+# Testing
+pytest
